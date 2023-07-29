@@ -32,12 +32,12 @@ Please note this is a beginner's project, my first website built on free resourc
 
 The website was developed as an icebreaker, showing my interests past a sometimes bland social media page. I wish to share the most formative moments of my high school career here, and wish for others to adapt this code and do the same! 
 
-Much of the code was adapted from other sources kind enough to provide resources for a beginner like myself. I give a special thanks to each developer that provided a piece of content to be edited and adapted here. Thanks for checking my website out, and please take a look at portions of code from each of the talented people referenced. Resource explanations in Russian can be found at the bottom, outlining my use of code beyond my own borders, something I feel should still properly be recognized!
+Much of the code was adapted from other sources kind enough to provide resources for a beginner like myself. I give a special thanks to each developer that provided a piece of content to be edited and adapted here. Thanks for checking my website out, and please take a look at portions of code from each of the talented people referenced!
 
 ## Table of Contents 
 
 - [Copyright](#copyright)
-- [Resources Russian](#resourcesRU)
+<!-- - [Resources Russian](#resourcesRU) -->
 - [Resources](#resources)
 - [Artwork Refrences](#art)
 - [Final License](#license)
@@ -68,21 +68,6 @@ SOFTWARE.
 
 
 Below is a list of sources and referenced tutorials in the website's development. 
-
-## Russian Resources
-
-About section:   
-![alt text](readMeAssets/about.png)
-![The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Adaptations included photo switches, icon incorporations and navigation bar addition. 
-
-Navigation: 
-![alt text](readMeAssets/nav.png)
-![The navigation bar was adapted from the work of Erik Terwan (@terwanerik on github) code adapted can be accessed here:](https://codepen.io/erikterwan/pen/EVzeRP) Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
-
-
-Past, Present, Future, Awards, Contact:
-![alt text](readMeAssets/past.png)
-![The remaining pages were adapted from the work of WebDesign Master, the adpated code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes, and image place holders were added to the work.
 
 ## English Resources 
 
