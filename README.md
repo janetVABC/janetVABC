@@ -32,7 +32,7 @@
    I started my formal coding journey in grade 10, working through javascript and Java-esque programming languages, later on during my grade 11 coding experiences through APCSA I learned much more about syntax and usage of Java, a fantastic learning experience and one that allowed me to explore creativity and simplicity in code. After courses and personal work with Python this year, I was feeling inspired to make a website of my own and some web apps with an AI twist (to be released soon!). Working through my school's robotics program has also allowed me to experience some group work in code! I wish to continue some website updating and would love to one day share my own resources similar to the ones provided to me in the creation of the site! I wish you all take the time to check out my adapted work and be sure to take a look at some more website details below! Thanks :)
  
 <details>
- <summary><h3>🌺 Janet's Site Details</h3></summary>
+ <summary><h4>🌺 Janet's Site Details</h4></summary>
  # < Parallax Scroll Highschool Portfolio Website >
 
 ## Description
