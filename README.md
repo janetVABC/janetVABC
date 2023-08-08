@@ -9,7 +9,7 @@
 
 <br />
 
-###  🌼 Comfortable Languages & Some I'm experimenting With! 
+###  🌼 Comfortable Languages & Some I'm Experimenting With! 
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -25,7 +25,7 @@
 
 ### 🌼 My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
-![Check out my potfolio site here](TO BE ADDED)
+![Check out my portfolio site here](TO BE ADDED)
 
 
 
@@ -82,29 +82,29 @@ About section:
 
 Navigation: 
 ![alt text](readMeAssets/nav.png)
-![The navigation bar was adapted from the work of Erik Terwan (@terwanerik on github) code adapted can be accessed here:](https://codepen.io/erikterwan/pen/EVzeRP) Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
+![The navigation bar was adapted from the work of Erik Terwan (@terwanerik on GitHub) code adapted can be accessed here:](https://codepen.io/erikterwan/pen/EVzeRP) Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
 
 Glass Effects:
 ![alt text](readMeAssets/nav.png)
-![The glass effects were achieved/applied by folowwing the folowing tutorial of @Cluless Expert on youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
+![The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
 
 Past, Present, Future, Awards, Contact:
 ![alt text](readMeAssets/past.png)
-![The remaining pages were adapted from the work of WebDesign Master Code, the adpated code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes, and image place holders were added to the work.
+![The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes and image placeholders were added to the work.
 
 
-## Artwork Refrences
+## Artwork References
 
 Artwork of About Section:
 ![alt text](readMeAssets/forestArt.png)
-![Please note the artwork from the initial "parallax scrolling website" website of WebDesign Master was adapted from the work of Tobias Hofmann. The Fantasy Forest scenry can be accessed here:](https://www.artstation.com/artwork/YalmBw)
+![Please note the artwork from the initial "parallax scrolling website" website of WebDesign Master was adapted from the work of Tobias Hofmann. The Fantasy Forest scenery can be accessed here:](https://www.artstation.com/artwork/YalmBw)
 
 Personal Artwork of Myself:
 ![alt text](readMeAssets/myArt.png)
 ![This was a personalized piece of work made for my school's robotics team, the art was made by my friend Isra! Check out her work here:](TO BE ADDED)
 
   
-Note: all other artwork is either owned by, taken of, or created by myself. 
+Note: all other artwork is either owned by, taken off, or created by myself. 
 
 
 ## Final License
