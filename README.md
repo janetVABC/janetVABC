@@ -43,6 +43,7 @@ Much of the code was adapted from other sources kind enough to provide resources
 
 - [Copyright](#copyright)
 - [Resources](#resources) <!-- - [Resources Russian](#resourcesRU) -->
+- [Ресурсы](#resourcesRU)
 - [Artwork Refrences](#art)
 - [Final License](#license)
 
@@ -91,6 +92,23 @@ Past, Present, Future, & Awards Pages:
 ![alt text](readMeAssets/past.png)
 ![The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes and image placeholders were added to the work.
 
+## Ресурсы 
+
+О странице:   
+![alt text](readMeAssets/about.png)
+![Главная страница сказочной страны чудес была адаптирована из кода WebDesign Master Code, с ним можно ознакомиться здесь:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Адаптация включала в себя переключение фотографий, включение иконок и добавление панели навигации. 
+
+Навигация: 
+![alt text](readMeAssets/nav.png)
+![Панель навигации была адаптирована из работы Эрика Тервана (@terwanerik на GitHub), код адаптации можно посмотреть здесь:](https://codepen.io/erikterwan/pen/EVzeRP) В навигацию были добавлены эффекты стекла, адаптация формы и изменение цвета, которые можно увидеть на всем сайте.
+
+Стеклянные эффекты:
+![alt text](readMeAssets/nav.png)
+![Стеклянные эффекты были достигнуты/применены по следующему руководству @Cluless Expert на youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
+
+Страницы "Прошлое, настоящее, будущее и награды":
+![alt text](readMeAssets/past.png)
+![Остальные страницы были адаптированы из работы WebDesign Master Code, с адаптированным кодом можно ознакомиться здесь:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) В работу были добавлены изменения цвета и разместители изображений.
 
 ## Artwork References
 
