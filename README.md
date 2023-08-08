@@ -21,12 +21,11 @@
 
 <br />
 
-<br >
+
 ### 🖥️ My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
 ![Check out my potfolio site here](TO BE ADDED)
 
-<br />
 
 
 ### 🪸 Website Details
