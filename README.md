@@ -9,7 +9,7 @@
 
 <br />
 
-###  📜 Comfortable Languages & Some I'm experimenting With! 🖋️
+###  🌼 Comfortable Languages & Some I'm experimenting With! 🖋️
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -19,16 +19,17 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
+
 <br />
 
 
-### 🖥️ My Portfolio Site
+### 🌙 My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
 ![Check out my potfolio site here](TO BE ADDED)
 
 
 
-### 🪸 Website Details
+### 🌤️ Website Details
 
 ## Description
 
@@ -113,5 +114,5 @@ My website is usable under MIT licensing! Check out other creators for more info
 <br />
 
 <details>
- <summary><h3>🎀 Janet's Coding Journey</h3></summary>
+ <summary><h3> 🎀 Janet's Coding Journey</h3></summary>
    I started my formal coding journey in grade 10, working through javascript and Java-esque programming languages, later on during my grade 11 coding experiences through APCSA I learned much more about syntax and usage of Java, a fantastic learning experience and one that allowed me to explore creativity and simplicity in code. After courses and personal work with Python this year, I was feeling inspired to make a website of my own and some web apps with an AI twist (to be released soon!). Working through my school's robotics program has also allowed me to experience some group work in code! I wish to continue some website updating and would love to one day share my own resources similar to the ones provided to me in the creation of the site! I wish you all take the time to check out my adapted work and be sure to take a look at some more website details above! Thanks :)
