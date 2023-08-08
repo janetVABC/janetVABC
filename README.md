@@ -2,7 +2,6 @@
 
 
 **`High School Senior (Beginner website builder/Aspiring engineer/Dune fanatic!)`**
-![](https://github.com/janetVABC/floral.gif)
 
 <div style="text-align: right"> I'm a grade twelve student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some achievements. I hope you get a chance to check out my site and learn a bit more about me! </div>
 
@@ -29,7 +28,7 @@
 
 
 ### 🌼 My Portfolio Site
-![](https://github.com/janetVABC/aboutC.png)
+![](https://github.com/janetVABC/about.png)
 ![Check out my portfolio site here](TO BE ADDED)
 
 
@@ -81,7 +80,7 @@ Below is a list of sources and referenced tutorials in the website's development
 ## English Resources 
 
 About section:   
-![alt text](readMeAssets/about.png)
+![alt text](readMeAssets/aboutMe.png)
 ![The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Adaptations included photo switches, icon incorporations, and navigation bar addition. 
 
 Navigation: 
@@ -89,7 +88,7 @@ Navigation:
 ![The navigation bar was adapted from the work of Erik Terwan (@terwanerik on GitHub) code adapted can be accessed here:](https://codepen.io/erikterwan/pen/EVzeRP) Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
 
 Glass Effects:
-![alt text](readMeAssets/nav.png)
+![alt text](readMeAssets/pastGlass.png)
 ![The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
 
 Past, Present, Future, & Awards Pages:
@@ -99,7 +98,7 @@ Past, Present, Future, & Awards Pages:
 ## Ресурсы 
 
 О странице:   
-![alt text](readMeAssets/about.png)
+![alt text](readMeAssets/aboutMe.png)
 ![Главная страница сказочной страны чудес была адаптирована из кода WebDesign Master Code, с ним можно ознакомиться здесь:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Адаптация включала в себя переключение фотографий, включение иконок и добавление панели навигации. 
 
 Навигация: 
@@ -107,7 +106,7 @@ Past, Present, Future, & Awards Pages:
 ![Панель навигации была адаптирована из работы Эрика Тервана (@terwanerik на GitHub), код адаптации можно посмотреть здесь:](https://codepen.io/erikterwan/pen/EVzeRP) В навигацию были добавлены эффекты стекла, адаптация формы и изменение цвета, которые можно увидеть на всем сайте.
 
 Стеклянные эффекты:
-![alt text](readMeAssets/nav.png)
+![alt text](readMeAssets/pastGlass.png)
 ![Стеклянные эффекты были достигнуты/применены по следующему руководству @Cluless Expert на youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
 
 Страницы "Прошлое, настоящее, будущее и награды":
