@@ -5,7 +5,8 @@
 
 <div style="text-align: right"> I'm a grade twelve student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some achievements. I hope you get a chance to check out my site and learn a bit more about me! </div>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/My%20Site%20-%20pink%20?link=google.com">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20Site%20-%20pink%20?link=google.com"> LINKHERE
 
 
 
