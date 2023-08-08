@@ -5,6 +5,10 @@
 
 <div style="text-align: right"> I'm a grade 12 student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some previous achievements. I hope you get a chance to check out my site and learn a bit more about me!  </div>
 
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+
 <br />
 
 ###  📜 Comfortable Languages & Some I'm experimenting With! 🖋️
@@ -17,6 +21,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br />
+
+
 
 ### 🖥️ My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
