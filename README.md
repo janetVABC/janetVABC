@@ -1,5 +1,6 @@
 # 🌸 Janet's Website Portal! 🐩
 
+
 **`Student (Beginner website builder/Aspiring engineer/Dune fanatic!)`**
 ![](https://github.com/janetVABC/floral.gif)
 
@@ -9,6 +10,7 @@
 <br />
 
 ###  📜 Comfortable Languages & Some I'm experimenting With! 🖋️
+
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,12 +22,12 @@
 <br />
 
 
-
 ### 🖥️ My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
 ![Check out my potfolio site here](TO BE ADDED)
 
 <br />
+
 
 ### 🪸 Website Details
 
