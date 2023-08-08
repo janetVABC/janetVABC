@@ -84,7 +84,7 @@ About section:
 <img
   src="aboutMe.png"
   alt="about me page of my website"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here: https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html Adaptations included photo switches, icon incorporations, and navigation bar addition. 
 
