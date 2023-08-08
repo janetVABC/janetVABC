@@ -93,7 +93,7 @@ Navigation:
 <img
   src="nav.png"
   alt="navigation bar of my site"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 The navigation bar was adapted from the work of Erik Terwan (@terwanerik on GitHub) code adapted can be accessed here: https://codepen.io/erikterwan/pen/EVzeRP Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
 
@@ -102,7 +102,7 @@ Glass Effects:
 <img
   src="pastGlass.png"
   alt="example of frosted glass effect used on my site"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
 
 The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube: https://www.youtube.com/watch?v=3HRvb2tLqF4
 
@@ -111,7 +111,7 @@ Past, Present, Future, & Awards Pages:
 <img
   src="past.png"
   alt="example of my website's content from the past page"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 
 The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here: https://webdesign-master.ru/blog/html-css/creative-scroll-website.html Colour changes and image placeholders were added to the work.
@@ -123,7 +123,7 @@ The remaining pages were adapted from the work of WebDesign Master Code, the ada
 <img
   src="aboutMe.png"
   alt="about me page of my website"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 Главная страница сказочной страны чудес была адаптирована из кода WebDesign Master Code, с ним можно ознакомиться здесь: https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html Адаптация включала в себя переключение фотографий, включение иконок и добавление панели навигации. 
 
@@ -132,7 +132,7 @@ The remaining pages were adapted from the work of WebDesign Master Code, the ada
 <img
   src="nav.png"
   alt="navigation bar of my site"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 
 Панель навигации была адаптирована из работы Эрика Тервана (@terwanerik на GitHub), код адаптации можно посмотреть здесь: https://codepen.io/erikterwan/pen/EVzeRP) В навигацию были добавлены эффекты стекла, адаптация формы и изменение цвета, которые можно увидеть на всем сайте.
@@ -142,7 +142,7 @@ The remaining pages were adapted from the work of WebDesign Master Code, the ada
 <img
   src="pastGlass.png"
   alt="example of frosted glass effect used on my site"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 Стеклянные эффекты были достигнуты/применены по следующему руководству @Cluless Expert на youtube: https://www.youtube.com/watch?v=3HRvb2tLqF4
 
@@ -151,7 +151,7 @@ The remaining pages were adapted from the work of WebDesign Master Code, the ada
 <img
   src="past.png"
   alt="example of my website's content from the past page"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 Остальные страницы были адаптированы из работы WebDesign Master Code, с адаптированным кодом можно ознакомиться здесь: https://webdesign-master.ru/blog/html-css/creative-scroll-website.html В работу были добавлены изменения цвета и разместители изображений.
 
@@ -162,7 +162,7 @@ Artwork of About Section:
 <img
   src="forestArt.png"
   alt="example of forest art used in about section of site"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 Please note the artwork from the initial "parallax scrolling website" website of WebDesign Master was adapted from the work of Tobias Hofmann. The Fantasy Forest scenery can be accessed here: https://www.artstation.com/artwork/YalmBw
 
@@ -171,7 +171,7 @@ Personal Artwork of Myself:
 <img
   src="myArt.png"
   alt="my painted portrait"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 200px">
   
 This was a personalized piece of work made for my school's robotics team, the art was made by my friend! Check out her work on Twitter & Instagram: @m1ramooo
 
