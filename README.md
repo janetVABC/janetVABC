@@ -37,7 +37,7 @@ Please note this is a beginner's project, my first website built on free resourc
 
 The website was developed as an icebreaker, showing my interests past a sometimes bland social media page. I wish to share the most formative moments of my high school career here, and wish for others to adapt this code and do the same! 
 
-Much of the code was adapted from other sources kind enough to provide resources for a beginner like myself. I give a special thanks to each developer that provided a piece of content to be edited and adapted here. Thanks for checking my website out, and please take a look at portions of code from each of the talented people referenced! Please note ⭐️ I am not endorsed by, involved with, or condone or am aware of the further work of those referenced!
+Much of the code was adapted from other sources kind enough to provide resources for a beginner like myself. I give a special thanks to each developer that provided a piece of content to be edited and adapted here. Thanks for checking my website out, and please take a look at portions of code from each of the talented people referenced in two languages as I did use some sources past North America! Please note ⭐️ I am not endorsed by, involved with, or condone or am aware of the further work of those referenced!
 
 ## Table of Contents 
 
