@@ -5,6 +5,9 @@
 
 <div style="text-align: right"> I'm a grade twelve student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some achievements. I hope you get a chance to check out my site and learn a bit more about me! </div>
 
+<img alt="Static Badge" src="https://img.shields.io/badge/My%20Site%20-%20pink%20">
+
+
 <details>
  <summary><h3> 🎀 Janet's Coding Journey</h3></summary>
    I started my formal coding journey in grade 10, working through javascript and Java-esque programming languages, later on during my grade 11 coding experiences I learned so much more about syntax and usage of Java, a fantastic learning experience and one that allowed me to explore creativity and simplicity in code. After courses and personal work with Python this year, I was feeling inspired to make a website of my own and some web apps with an AI twist (to be released soon!). Working through my school's robotics program has also allowed me to experience some group work in code! I wish to continue some website updating and would love to one day share my own resources similar to the ones provided to me in the creation of the site! I wish you all take the time to check out my adapted work and be sure to take a look at some more website details above! Thanks :)
