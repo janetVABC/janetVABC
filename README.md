@@ -46,7 +46,7 @@ Much of the code was adapted from other sources kind enough to provide resources
 ## Table of Contents 
 
 - [Copyright](#copyright)
-- [Resources](#resources) <!-- - [Resources Russian](#resourcesRU) -->
+- [Resources](#resources) 
 - [Ресурсы](#resourcesRU)
 - [Artwork Refrences](#art)
 - [Final License](#license)
