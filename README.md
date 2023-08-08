@@ -80,7 +80,12 @@ Below is a list of sources and referenced tutorials in the website's development
 ## English Resources 
 
 About section:   
-![alt text](aboutMe.png)
+
+<img
+  src="aboutMe.png"
+  alt="about me page of my website"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 ![The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Adaptations included photo switches, icon incorporations, and navigation bar addition. 
 
 Navigation: 
