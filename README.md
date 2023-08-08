@@ -1,10 +1,10 @@
 # 🌸 Janet's Website Portal! 🐩
 
 
-**`Student (Beginner website builder/Aspiring engineer/Dune fanatic!)`**
+**`High School Senior (Beginner website builder/Aspiring engineer/Dune fanatic!)`**
 ![](https://github.com/janetVABC/floral.gif)
 
-<div style="text-align: right"> I'm a grade 12 student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some previous achievements. I hope you get a chance to check out my site and learn a bit more about me!  </div>
+<div style="text-align: right"> I'm a grade twelve student excited to share my site! I created my main website as an informative portfolio, to share my future goals and some achievements. I hope you get a chance to check out my site and learn a bit more about me! </div>
 
 
 <br />
@@ -42,8 +42,7 @@ Much of the code was adapted from other sources kind enough to provide resources
 ## Table of Contents 
 
 - [Copyright](#copyright)
-<!-- - [Resources Russian](#resourcesRU) -->
-- [Resources](#resources)
+- [Resources](#resources) <!-- - [Resources Russian](#resourcesRU) -->
 - [Artwork Refrences](#art)
 - [Final License](#license)
 
@@ -78,7 +77,7 @@ Below is a list of sources and referenced tutorials in the website's development
 
 About section:   
 ![alt text](readMeAssets/about.png)
-![The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Adaptations included photo switches, icon incorporations and navigation bar addition. 
+![The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Adaptations included photo switches, icon incorporations, and navigation bar addition. 
 
 Navigation: 
 ![alt text](readMeAssets/nav.png)
@@ -88,7 +87,7 @@ Glass Effects:
 ![alt text](readMeAssets/nav.png)
 ![The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
 
-Past, Present, Future, Awards, Contact:
+Past, Present, Future, & Awards Pages:
 ![alt text](readMeAssets/past.png)
 ![The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes and image placeholders were added to the work.
 
@@ -101,10 +100,10 @@ Artwork of About Section:
 
 Personal Artwork of Myself:
 ![alt text](readMeAssets/myArt.png)
-![This was a personalized piece of work made for my school's robotics team, the art was made by my friend Isra! Check out her work here:](TO BE ADDED)
+![This was a personalized piece of work made for my school's robotics team, the art was made by my friend! Check out her work here:](TO BE ADDED)
 
   
-Note: all other artwork is either owned by, taken off, or created by myself. 
+Note: all other artwork is either owned by, taken of/by, or created by myself. 
 
 
 ## Final License
@@ -115,4 +114,4 @@ My website is usable under MIT licensing! Check out other creators for more info
 
 <details>
  <summary><h3> 🎀 Janet's Coding Journey</h3></summary>
-   I started my formal coding journey in grade 10, working through javascript and Java-esque programming languages, later on during my grade 11 coding experiences through APCSA I learned much more about syntax and usage of Java, a fantastic learning experience and one that allowed me to explore creativity and simplicity in code. After courses and personal work with Python this year, I was feeling inspired to make a website of my own and some web apps with an AI twist (to be released soon!). Working through my school's robotics program has also allowed me to experience some group work in code! I wish to continue some website updating and would love to one day share my own resources similar to the ones provided to me in the creation of the site! I wish you all take the time to check out my adapted work and be sure to take a look at some more website details above! Thanks :)
+   I started my formal coding journey in grade 10, working through javascript and Java-esque programming languages, later on during my grade 11 coding experiences I learned so much more about syntax and usage of Java, a fantastic learning experience and one that allowed me to explore creativity and simplicity in code. After courses and personal work with Python this year, I was feeling inspired to make a website of my own and some web apps with an AI twist (to be released soon!). Working through my school's robotics program has also allowed me to experience some group work in code! I wish to continue some website updating and would love to one day share my own resources similar to the ones provided to me in the creation of the site! I wish you all take the time to check out my adapted work and be sure to take a look at some more website details above! Thanks :)
