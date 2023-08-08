@@ -89,44 +89,91 @@ About section:
 The home page of a fairy wonderland was adapted from the code of WebDesign Master Code, it can be accessed here: https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html Adaptations included photo switches, icon incorporations, and navigation bar addition. 
 
 Navigation: 
-![alt text](readMeAssets/nav.png)
-![The navigation bar was adapted from the work of Erik Terwan (@terwanerik on GitHub) code adapted can be accessed here:](https://codepen.io/erikterwan/pen/EVzeRP) Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
+
+<img
+  src="nav.png"
+  alt="navigation bar of my site"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+The navigation bar was adapted from the work of Erik Terwan (@terwanerik on GitHub) code adapted can be accessed here: https://codepen.io/erikterwan/pen/EVzeRP Glass effects, shape adaptations and colour changes were added to the navigation seen throughout the website.
 
 Glass Effects:
-![alt text](readMeAssets/pastGlass.png)
-![The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
+
+<img
+  src="pastGlass.png"
+  alt="example of frosted glass effect used on my site"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+The glass effects were achieved/applied by following the following tutorial of @Cluless Expert on youtube: https://www.youtube.com/watch?v=3HRvb2tLqF4
 
 Past, Present, Future, & Awards Pages:
-![alt text](readMeAssets/past.png)
-![The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) Colour changes and image placeholders were added to the work.
+
+<img
+  src="past.png"
+  alt="example of my website's content from the past page"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+
+The remaining pages were adapted from the work of WebDesign Master Code, the adapted code can be accessed here: https://webdesign-master.ru/blog/html-css/creative-scroll-website.html Colour changes and image placeholders were added to the work.
 
 ## Ресурсы 
 
 О странице:   
-![alt text](readMeAssets/aboutMe.png)
-![Главная страница сказочной страны чудес была адаптирована из кода WebDesign Master Code, с ним можно ознакомиться здесь:](https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html) Адаптация включала в себя переключение фотографий, включение иконок и добавление панели навигации. 
+
+<img
+  src="aboutMe.png"
+  alt="about me page of my website"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+Главная страница сказочной страны чудес была адаптирована из кода WebDesign Master Code, с ним можно ознакомиться здесь: https://webdesign-master.ru/blog/html-css/parallax-scrolling-website.html Адаптация включала в себя переключение фотографий, включение иконок и добавление панели навигации. 
 
 Навигация: 
-![alt text](readMeAssets/nav.png)
-![Панель навигации была адаптирована из работы Эрика Тервана (@terwanerik на GitHub), код адаптации можно посмотреть здесь:](https://codepen.io/erikterwan/pen/EVzeRP) В навигацию были добавлены эффекты стекла, адаптация формы и изменение цвета, которые можно увидеть на всем сайте.
+
+<img
+  src="nav.png"
+  alt="navigation bar of my site"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+
+Панель навигации была адаптирована из работы Эрика Тервана (@terwanerik на GitHub), код адаптации можно посмотреть здесь: https://codepen.io/erikterwan/pen/EVzeRP) В навигацию были добавлены эффекты стекла, адаптация формы и изменение цвета, которые можно увидеть на всем сайте.
 
 Стеклянные эффекты:
-![alt text](readMeAssets/pastGlass.png)
-![Стеклянные эффекты были достигнуты/применены по следующему руководству @Cluless Expert на youtube:](https://www.youtube.com/watch?v=3HRvb2tLqF4)
+
+<img
+  src="pastGlass.png"
+  alt="example of frosted glass effect used on my site"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+Стеклянные эффекты были достигнуты/применены по следующему руководству @Cluless Expert на youtube: https://www.youtube.com/watch?v=3HRvb2tLqF4
 
 Страницы "Прошлое, настоящее, будущее и награды":
-![alt text](readMeAssets/past.png)
-![Остальные страницы были адаптированы из работы WebDesign Master Code, с адаптированным кодом можно ознакомиться здесь:](https://webdesign-master.ru/blog/html-css/creative-scroll-website.html) В работу были добавлены изменения цвета и разместители изображений.
+
+<img
+  src="past.png"
+  alt="example of my website's content from the past page"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+Остальные страницы были адаптированы из работы WebDesign Master Code, с адаптированным кодом можно ознакомиться здесь: https://webdesign-master.ru/blog/html-css/creative-scroll-website.html В работу были добавлены изменения цвета и разместители изображений.
 
 ## Artwork References
 
 Artwork of About Section:
-![alt text](readMeAssets/forestArt.png)
-![Please note the artwork from the initial "parallax scrolling website" website of WebDesign Master was adapted from the work of Tobias Hofmann. The Fantasy Forest scenery can be accessed here:](https://www.artstation.com/artwork/YalmBw)
+
+<img
+  src="forestArt.png"
+  alt="example of forest art used in about section of site"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+Please note the artwork from the initial "parallax scrolling website" website of WebDesign Master was adapted from the work of Tobias Hofmann. The Fantasy Forest scenery can be accessed here: https://www.artstation.com/artwork/YalmBw
 
 Personal Artwork of Myself:
-![alt text](readMeAssets/myArt.png)
-![This was a personalized piece of work made for my school's robotics team, the art was made by my friend! Check out her work here:](TO BE ADDED)
+
+<img
+  src="myArt.png"
+  alt="my painted portrait"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
+This was a personalized piece of work made for my school's robotics team, the art was made by my friend! Check out her work on Twitter & Instagram: @m1ramooo
 
   
 Note: all other artwork is either owned by, taken of/by, or created by myself. 
@@ -134,6 +181,6 @@ Note: all other artwork is either owned by, taken of/by, or created by myself.
 
 ## Final License
 
-My website is usable under MIT licensing! Check out other creators for more information on their specific licensing, thanks!
+My website is usable under MIT licensing! Check out other creators for more information on their specific licensing, thanks! 🌺
 
 <br />
