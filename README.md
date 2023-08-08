@@ -9,7 +9,7 @@
 
 <br />
 
-###  🌼 Comfortable Languages & Some I'm experimenting With! 🖋️
+###  🌼 Comfortable Languages & Some I'm experimenting With! 
 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -23,13 +23,13 @@
 <br />
 
 
-### 🌙 My Portfolio Site
+### 🌼 My Portfolio Site
 ![](https://github.com/janetVABC/aboutC.png)
 ![Check out my potfolio site here](TO BE ADDED)
 
 
 
-### 🌤️ Website Details
+### 🌼 Website Details
 
 ## Description
 
