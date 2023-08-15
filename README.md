@@ -27,5 +27,4 @@
 <br />
 
 ### 🌼 My Portfolio Site
-![Static Badge](https://img.shields.io/badge/Visit-My%20site-pink?style=plastic&link=https%3A%2F%2Fjanetvenditti.github.io) 
-https://janetvenditti.github.io
+![Static Badge](https://img.shields.io/badge/Visit-My%20site-pink?style=plastic&link=https%3A%2F%2Fjanetvenditti.github.io) https://janetvenditti.github.io
