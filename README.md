@@ -27,7 +27,5 @@
 <br />
 
 ### 🌼 My Portfolio Site
-![Static Badge](https://img.shields.io/badge/Check%20out%20my%20site%20in%20a%20click!%20-%20pink(https://google.com/))
+![Static Badge](https://img.shields.io/badge/Check%20out%20my%20site%20in%20a%20click!%20-%20pink)
 
-
-[![License](https://img.shields.io/packagist/l/<USER>/<PACKAGE>.svg)](https://github.com/<USER>/<REPOSITORY>/blob/master/<LICENSE FILE>)
