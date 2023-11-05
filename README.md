@@ -27,5 +27,5 @@
 <br />
 
 ### 🌼 Check out my Portfolio Site
-at: janetvenditti.github.io
+janetvenditti.github.io
 
