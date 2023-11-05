@@ -26,6 +26,6 @@
 
 <br />
 
-### 🌼 My Portfolio Site
-![Static Badge](https://img.shields.io/badge/Check%20out%20my%20site%20in%20a%20click!%20-%20pink) (janetvenditti.github.io)
+### 🌼 Check out my Portfolio Site
+at: janetvenditti.github.io
 
