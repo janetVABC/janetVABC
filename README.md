@@ -48,15 +48,6 @@
 </a>
 </p>
 
-
-
-<p>
-
-<td align="center">
-
-
-
-
 <td align="center">
 
 <img alt="Globe" height="80" src="images/globe.gif">
