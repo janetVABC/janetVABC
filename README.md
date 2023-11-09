@@ -29,3 +29,35 @@
 ### 🌼 Check out my Portfolio Site
 janetvenditti.github.io
 
+
+
+
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="images/heading.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="janetvenditti.github.io">
+<strong>Visit my personal website! </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/book.gif">
+</a>
+</p>
+
+</td>
+
+
+</div>
+
