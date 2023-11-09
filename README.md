@@ -44,15 +44,17 @@
 <br />
 <br />
 
-<p>
-
-<td align="center">
-
 <img alt="Me!" height="80" src="images/myArt.png">
 </a>
 </p>
 
 </td>
+
+<p>
+
+<td align="center">
+
+
 
 
 <td align="center">
