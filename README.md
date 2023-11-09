@@ -1,5 +1,12 @@
 # 🌸 Janet's Website Portal! 🐩
 
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="images/heading.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+
+</div>
 
 **`High School Senior (Beginner website builder/Aspiring engineer/Dune fanatic!)`**
 
@@ -27,19 +34,6 @@
 <br />
 
 ### 🌼 Check out my Portfolio Site
-janetvenditti.github.io
-
-
-
-
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="images/heading.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-
-</div>
-
 <!-- Social, my website -->
 <table width="100%" align="center">
 <tr>
@@ -58,6 +52,7 @@ janetvenditti.github.io
 
 </td>
 
+
 <!-- Social -> thanks -->
 <table width="100%" align="center">
 <tr>
@@ -75,6 +70,11 @@ janetvenditti.github.io
 </p>
 
 </td>
+
+
+
+
+
 
 
 
