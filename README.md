@@ -38,7 +38,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="janetvenditti.github.io">
+<a href="https:janetvenditti.github.io">
 <strong>Visit my personal website </strong>
 <br />
 <br />
