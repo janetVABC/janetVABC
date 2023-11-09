@@ -40,12 +40,30 @@ janetvenditti.github.io
 
 </div>
 
-<!-- Social -->
+<!-- Social, my website -->
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="janetvenditti.github.io">
 <strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Me!" height="80" src="images/myArt.png">
+</a>
+</p>
+
+</td>
+
+<!-- Social -> thanks -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+
+<strong>Thanks for taking a look at my profile!</strong>
 <br />
 <br />
 <br />
@@ -57,4 +75,7 @@ janetvenditti.github.io
 </p>
 
 </td>
+
+
+
 
