@@ -34,6 +34,9 @@
 <br />
 
 ### 🌼 Check out my Portfolio Site
+<td align="left">
+<a href="images/book.gif">
+  
 <!-- Social, my website -->
 <table width="100%" align="center">
 <tr>
