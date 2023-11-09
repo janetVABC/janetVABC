@@ -37,7 +37,7 @@
 <!-- Social, my website -->
 <table width="100%" align="center">
 <tr>
-<td align="center">
+<td align="left">
 <a href="https://janetvenditti.github.io">
 <strong>Visit my personal website </strong>
 <br />
@@ -52,6 +52,8 @@
 
 </td>
 
+
+<td align="center">
 
 <img alt="Globe" height="80" src="images/globe.gif">
 
