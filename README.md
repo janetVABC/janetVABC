@@ -46,6 +46,10 @@
 
 <p>
 
+<td align="center">
+
+<img alt="Globe" height="80" src="images/book.gif">
+
 <img alt="Me!" height="80" src="images/myArt.png">
 </a>
 </p>
