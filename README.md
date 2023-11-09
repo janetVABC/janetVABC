@@ -53,23 +53,8 @@
 </td>
 
 
-<!-- Social -> thanks -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-
-<strong>Thanks for taking a look at my profile!</strong>
-<br />
-<br />
-<br />
-
-<p>
-
 <img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
 
-</td>
 
 
 
