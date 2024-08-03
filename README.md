@@ -8,7 +8,7 @@
 
 </div>
 
-**`High School Senior (Beginner programmer/UofT Engineering '28!/Dune fanatic!)`**
+**`Beginner programmer, UofT Engineering '28!, Dune fanatic!`**
 
 <div style="text-align: right"> I'm so excited to share my site! I created my main website as an informative highschool portfolio, to share my future goals and some achievements. I hope you get a chance to check out my site and learn a bit more about me! </div>
 
